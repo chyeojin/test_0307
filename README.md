@@ -22,5 +22,5 @@ _이탤릭체 강조_
 pip3 install -U python-dateutil
 ```
 
-`- [] 할 일`
+`- [ ]` 할 일
 - 
